@@ -5,7 +5,7 @@
   <link>https://zjun14896-cmd.github.io/kaoyan-podcast/</link>
   <atom:link href="https://zjun14896-cmd.github.io/kaoyan-podcast/feed.xml" rel="self" type="application/rss+xml"/>
   <language>zh-cn</language>
-  <description>复旦 MAPS 考研 715 / 821 论述题背诵音频（私人）</description>
+  <description>复旦 MAPS 考研 715 / 821 论述题背诵音频（私人，全部）</description>
   <itunes:author>Brooke</itunes:author>
   <itunes:image href="https://zjun14896-cmd.github.io/kaoyan-podcast/cover.jpg"/>
   <image><url>https://zjun14896-cmd.github.io/kaoyan-podcast/cover.jpg</url><title>Brooke 考研背诵</title><link>https://zjun14896-cmd.github.io/kaoyan-podcast/</link></image>
@@ -21,6 +21,7 @@
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-715/715-ce1.mp3" length="17065075" type="audio/mpeg"/>
     <itunes:duration>00:20:51</itunes:duration>
     <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
@@ -31,6 +32,7 @@
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-715/715-ce5.mp3" length="16293821" type="audio/mpeg"/>
     <itunes:duration>00:19:29</itunes:duration>
     <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
@@ -41,6 +43,7 @@
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-715/715-ce6.mp3" length="15848435" type="audio/mpeg"/>
     <itunes:duration>00:19:10</itunes:duration>
     <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
@@ -51,6 +54,7 @@
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-715/715-ce13.mp3" length="14236871" type="audio/mpeg"/>
     <itunes:duration>00:17:00</itunes:duration>
     <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
@@ -61,6 +65,7 @@
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-821/821-22.mp3" length="13888105" type="audio/mpeg"/>
     <itunes:duration>00:16:48</itunes:duration>
     <itunes:episode>5</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
@@ -71,6 +76,7 @@
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-821/821-23.mp3" length="13305590" type="audio/mpeg"/>
     <itunes:duration>00:16:11</itunes:duration>
     <itunes:episode>6</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
@@ -81,6 +87,7 @@
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-821/821-bu1.mp3" length="17297472" type="audio/mpeg"/>
     <itunes:duration>00:20:48</itunes:duration>
     <itunes:episode>7</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
   <item>
@@ -91,6 +98,7 @@
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-821/821-bu2.mp3" length="14109584" type="audio/mpeg"/>
     <itunes:duration>00:17:25</itunes:duration>
     <itunes:episode>8</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
 </channel>

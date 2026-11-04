@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>821 背诵 · 哲学专业综合</title>
+  <link>https://zjun14896-cmd.github.io/kaoyan-podcast/</link>
+  <atom:link href="https://zjun14896-cmd.github.io/kaoyan-podcast/feed-821.xml" rel="self" type="application/rss+xml"/>
+  <language>zh-cn</language>
+  <description>复旦 MAPS 考研 821 论述题背诵音频（私人）</description>
+  <itunes:author>Brooke</itunes:author>
+  <itunes:image href="https://zjun14896-cmd.github.io/kaoyan-podcast/cover-821.jpg"/>
+  <image><url>https://zjun14896-cmd.github.io/kaoyan-podcast/cover-821.jpg</url><title>821 背诵 · 哲学专业综合</title><link>https://zjun14896-cmd.github.io/kaoyan-podcast/</link></image>
+  <itunes:category text="Education"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:block>yes</itunes:block>
+  <itunes:type>serial</itunes:type>
+  <item>
+    <title>22.论述康德美学在“三大批判”体系中的位置，并解析审美判断的四个契机</title>
+    <description>22.论述康德美学在“三大批判”体系中的位置，并解析审美判断的四个契机</description>
+    <guid isPermaLink="false">kaoyan-821-22</guid>
+    <pubDate>Sun, 01 Nov 2026 00:00:00 +0000</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-821/821-22.mp3" length="13888105" type="audio/mpeg"/>
+    <itunes:duration>00:16:48</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>23.论述康德的崇高论与天才论，并说明其美学史意义</title>
+    <description>23.论述康德的崇高论与天才论，并说明其美学史意义</description>
+    <guid isPermaLink="false">kaoyan-821-23</guid>
+    <pubDate>Sun, 01 Nov 2026 01:00:00 +0000</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-821/821-23.mp3" length="13305590" type="audio/mpeg"/>
+    <itunes:duration>00:16:11</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>补1.试论康德的“美的理想”</title>
+    <description>补1.试论康德的“美的理想”</description>
+    <guid isPermaLink="false">kaoyan-821-补1</guid>
+    <pubDate>Sun, 01 Nov 2026 02:00:00 +0000</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-821/821-bu1.mp3" length="17297472" type="audio/mpeg"/>
+    <itunes:duration>00:20:48</itunes:duration>
+    <itunes:episode>3</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>补2.试论康德的“审美理念”</title>
+    <description>补2.试论康德的“审美理念”</description>
+    <guid isPermaLink="false">kaoyan-821-补2</guid>
+    <pubDate>Sun, 01 Nov 2026 03:00:00 +0000</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-821/821-bu2.mp3" length="14109584" type="audio/mpeg"/>
+    <itunes:duration>00:17:25</itunes:duration>
+    <itunes:episode>4</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
