@@ -112,5 +112,16 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+  <item>
+    <title>821·补4.试论康德的“共通感”</title>
+    <description>821·补4.试论康德的“共通感”</description>
+    <guid isPermaLink="false">kaoyan-821-补4</guid>
+    <pubDate>Sun, 01 Nov 2026 09:00:00 +0000</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-821/821-bu4.mp3" length="13431061" type="audio/mpeg"/>
+    <itunes:duration>00:16:14</itunes:duration>
+    <itunes:episode>10</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
