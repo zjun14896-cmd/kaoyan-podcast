@@ -101,5 +101,16 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+  <item>
+    <title>821·补3.试论康德“美是德性的象征”的命题</title>
+    <description>821·补3.试论康德“美是德性的象征”的命题</description>
+    <guid isPermaLink="false">kaoyan-821-补3</guid>
+    <pubDate>Sun, 01 Nov 2026 08:00:00 +0000</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-821/821-bu3.mp3" length="13175147" type="audio/mpeg"/>
+    <itunes:duration>00:15:57</itunes:duration>
+    <itunes:episode>9</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
