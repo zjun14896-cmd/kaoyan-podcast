@@ -1,0 +1,89 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>倒计时冲刺30天</title>
+  <link>https://zjun14896-cmd.github.io/kaoyan-podcast/</link>
+  <atom:link href="https://zjun14896-cmd.github.io/kaoyan-podcast/feed-sprint30.xml" rel="self" type="application/rss+xml"/>
+  <language>zh-cn</language>
+  <description>复旦 MAPS 考研倒计时冲刺30天背诵音频（私人）</description>
+  <itunes:author>Brooke</itunes:author>
+  <itunes:image href="https://zjun14896-cmd.github.io/kaoyan-podcast/cover-sprint30.jpg"/>
+  <image><url>https://zjun14896-cmd.github.io/kaoyan-podcast/cover-sprint30.jpg</url><title>倒计时冲刺30天</title><link>https://zjun14896-cmd.github.io/kaoyan-podcast/</link></image>
+  <itunes:category text="Education"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:block>yes</itunes:block>
+  <itunes:type>serial</itunes:type>
+  <item>
+    <title>Day-1 中03 谢赫六法</title>
+    <description>Day-1 中03 谢赫六法</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day1-中03</guid>
+    <pubDate>Fri, 13 Nov 2026 00:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day01-zhong03.mp3" length="2261203" type="audio/mpeg"/>
+    <itunes:duration>00:02:21</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-1 中05 魏晋书法</title>
+    <description>Day-1 中05 魏晋书法</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day1-中05</guid>
+    <pubDate>Fri, 13 Nov 2026 01:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day01-zhong05.mp3" length="2002486" type="audio/mpeg"/>
+    <itunes:duration>00:02:05</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-1 中09 文人画的观念特征</title>
+    <description>Day-1 中09 文人画的观念特征</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day1-中09</guid>
+    <pubDate>Fri, 13 Nov 2026 02:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day01-zhong09.mp3" length="2351900" type="audio/mpeg"/>
+    <itunes:duration>00:02:27</itunes:duration>
+    <itunes:episode>3</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-1 康01 康德美学在三大批判中的位置</title>
+    <description>Day-1 康01 康德美学在三大批判中的位置</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day1-康01</guid>
+    <pubDate>Fri, 13 Nov 2026 03:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day01-kang01.mp3" length="2056403" type="audio/mpeg"/>
+    <itunes:duration>00:02:08</itunes:duration>
+    <itunes:episode>4</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-1 康02 鉴赏判断的四个契机</title>
+    <description>Day-1 康02 鉴赏判断的四个契机</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day1-康02</guid>
+    <pubDate>Fri, 13 Nov 2026 04:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day01-kang02.mp3" length="2509053" type="audio/mpeg"/>
+    <itunes:duration>00:02:37</itunes:duration>
+    <itunes:episode>5</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-1 康03 无目的的合目的性</title>
+    <description>Day-1 康03 无目的的合目的性</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day1-康03</guid>
+    <pubDate>Fri, 13 Nov 2026 05:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day01-kang03.mp3" length="2245320" type="audio/mpeg"/>
+    <itunes:duration>00:02:20</itunes:duration>
+    <itunes:episode>6</itunes:episode>
+    <itunes:season>1</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+</channel>
+</rss>
