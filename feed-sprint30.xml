@@ -85,5 +85,77 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+  <item>
+    <title>Day-2 中10 山水画的风格演变</title>
+    <description>Day-2 中10 山水画的风格演变</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day2-中10</guid>
+    <pubDate>Sat, 14 Nov 2026 00:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day02-zhong10.mp3" length="3366705" type="audio/mpeg"/>
+    <itunes:duration>00:03:30</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:season>2</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-2 中13 晚清碑学运动</title>
+    <description>Day-2 中13 晚清碑学运动</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day2-中13</guid>
+    <pubDate>Sat, 14 Nov 2026 01:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day02-zhong13.mp3" length="2947074" type="audio/mpeg"/>
+    <itunes:duration>00:03:04</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+    <itunes:season>2</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-2 外04 文艺复兴艺术</title>
+    <description>Day-2 外04 文艺复兴艺术</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day2-外04</guid>
+    <pubDate>Sat, 14 Nov 2026 02:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day02-wai04.mp3" length="2986780" type="audio/mpeg"/>
+    <itunes:duration>00:03:07</itunes:duration>
+    <itunes:episode>3</itunes:episode>
+    <itunes:season>2</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-2 康04 自由美和依附美</title>
+    <description>Day-2 康04 自由美和依附美</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day2-康04</guid>
+    <pubDate>Sat, 14 Nov 2026 03:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day02-kang04.mp3" length="2708419" type="audio/mpeg"/>
+    <itunes:duration>00:02:49</itunes:duration>
+    <itunes:episode>4</itunes:episode>
+    <itunes:season>2</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-2 康05 美的理想</title>
+    <description>Day-2 康05 美的理想</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day2-康05</guid>
+    <pubDate>Sat, 14 Nov 2026 04:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day02-kang05.mp3" length="2341033" type="audio/mpeg"/>
+    <itunes:duration>00:02:26</itunes:duration>
+    <itunes:episode>5</itunes:episode>
+    <itunes:season>2</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-2 康06 崇高（康德）</title>
+    <description>Day-2 康06 崇高（康德）</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day2-康06</guid>
+    <pubDate>Sat, 14 Nov 2026 05:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day02-kang06.mp3" length="2788249" type="audio/mpeg"/>
+    <itunes:duration>00:02:54</itunes:duration>
+    <itunes:episode>6</itunes:episode>
+    <itunes:season>2</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
