@@ -157,5 +157,77 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+  <item>
+    <title>Day-3 外05 巴洛克的艺术</title>
+    <description>Day-3 外05 巴洛克的艺术</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day3-外05</guid>
+    <pubDate>Sun, 15 Nov 2026 00:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day03-wai05.mp3" length="3013111" type="audio/mpeg"/>
+    <itunes:duration>03:08</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-3 外08 马奈及印象派</title>
+    <description>Day-3 外08 马奈及印象派</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day3-外08</guid>
+    <pubDate>Sun, 15 Nov 2026 01:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day03-wai08.mp3" length="2807475" type="audio/mpeg"/>
+    <itunes:duration>02:55</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-3 外09 塞尚及后印象派</title>
+    <description>Day-3 外09 塞尚及后印象派</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day3-外09</guid>
+    <pubDate>Sun, 15 Nov 2026 02:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day03-wai09.mp3" length="2352736" type="audio/mpeg"/>
+    <itunes:duration>02:27</itunes:duration>
+    <itunes:episode>3</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-3 康07 天才论（康德）</title>
+    <description>Day-3 康07 天才论（康德）</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day3-康07</guid>
+    <pubDate>Sun, 15 Nov 2026 03:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day03-kang07.mp3" length="2243231" type="audio/mpeg"/>
+    <itunes:duration>02:20</itunes:duration>
+    <itunes:episode>4</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-3 康08 美是德性的象征</title>
+    <description>Day-3 康08 美是德性的象征</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day3-康08</guid>
+    <pubDate>Sun, 15 Nov 2026 04:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day03-kang08.mp3" length="2292132" type="audio/mpeg"/>
+    <itunes:duration>02:23</itunes:duration>
+    <itunes:episode>5</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-3 希04 柏拉图《大希庇阿斯篇》</title>
+    <description>Day-3 希04 柏拉图《大希庇阿斯篇》</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day3-希04</guid>
+    <pubDate>Sun, 15 Nov 2026 05:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day03-xila04.mp3" length="1995381" type="audio/mpeg"/>
+    <itunes:duration>02:05</itunes:duration>
+    <itunes:episode>6</itunes:episode>
+    <itunes:season>3</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
