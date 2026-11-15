@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:itunes="http://www.itunes.com/dtds/podcast-1.0.dtd" xmlns:atom="http://www.w3.org/2005/Atom">
+<channel>
+  <title>冲刺30天英文版</title>
+  <link>https://zjun14896-cmd.github.io/kaoyan-podcast/</link>
+  <atom:link href="https://zjun14896-cmd.github.io/kaoyan-podcast/feed-sprint30-en.xml" rel="self" type="application/rss+xml"/>
+  <language>zh-cn</language>
+  <description>复旦 MAPS 考研倒计时冲刺30天背诵音频 · 英文版（私人）</description>
+  <itunes:author>Brooke</itunes:author>
+  <itunes:image href="https://zjun14896-cmd.github.io/kaoyan-podcast/cover-sprint30-en.jpg"/>
+  <image><url>https://zjun14896-cmd.github.io/kaoyan-podcast/cover-sprint30-en.jpg</url><title>冲刺30天英文版</title><link>https://zjun14896-cmd.github.io/kaoyan-podcast/</link></image>
+  <itunes:category text="Education"/>
+  <itunes:explicit>false</itunes:explicit>
+  <itunes:block>yes</itunes:block>
+  <itunes:type>serial</itunes:type>
+</channel>
+</rss>
