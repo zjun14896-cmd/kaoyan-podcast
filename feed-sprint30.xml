@@ -211,5 +211,71 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+  <item>
+    <title>Day-4 外10 美国抽象表现主义</title>
+    <description>Day-4 外10 美国抽象表现主义</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day4-外10</guid>
+    <pubDate>Mon, 16 Nov 2026 00:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day04-wai10.mp3" length="2461823" type="audio/mpeg"/>
+    <itunes:duration>02:34</itunes:duration>
+    <itunes:episode>19</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-4 希05 柏拉图《会饮篇》</title>
+    <description>Day-4 希05 柏拉图《会饮篇》</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day4-希05</guid>
+    <pubDate>Mon, 16 Nov 2026 01:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day04-xila05.mp3" length="2343541" type="audio/mpeg"/>
+    <itunes:duration>02:26</itunes:duration>
+    <itunes:episode>20</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-4 希06 柏拉图的灵感说</title>
+    <description>Day-4 希06 柏拉图的灵感说</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day4-希06</guid>
+    <pubDate>Mon, 16 Nov 2026 02:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day04-xila06.mp3" length="2238633" type="audio/mpeg"/>
+    <itunes:duration>02:20</itunes:duration>
+    <itunes:episode>21</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-4 希07 《理想国》的诗人问题</title>
+    <description>Day-4 希07 《理想国》的诗人问题</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day4-希07</guid>
+    <pubDate>Mon, 16 Nov 2026 03:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day04-xila07.mp3" length="2409160" type="audio/mpeg"/>
+    <itunes:duration>02:31</itunes:duration>
+    <itunes:episode>22</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-4 哲01 艺术与真理</title>
+    <description>Day-4 哲01 艺术与真理</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day4-哲01</guid>
+    <pubDate>Mon, 16 Nov 2026 04:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day04-zhe01.mp3" length="2784070" type="audio/mpeg"/>
+    <itunes:duration>02:54</itunes:duration>
+    <itunes:episode>23</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-4 哲02 艺术作品的存在方式</title>
+    <description>Day-4 哲02 艺术作品的存在方式</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day4-哲02</guid>
+    <pubDate>Mon, 16 Nov 2026 05:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day04-zhe02.mp3" length="2779054" type="audio/mpeg"/>
+    <itunes:duration>02:54</itunes:duration>
+    <itunes:episode>24</itunes:episode>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
