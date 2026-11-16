@@ -21,6 +21,7 @@
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day01-zhong03.mp3" length="2261203" type="audio/mpeg"/>
     <itunes:duration>00:02:21</itunes:duration>
     <itunes:episode>1</itunes:episode>
+    <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -32,6 +33,7 @@
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day01-zhong05.mp3" length="2002486" type="audio/mpeg"/>
     <itunes:duration>00:02:05</itunes:duration>
     <itunes:episode>2</itunes:episode>
+    <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -43,6 +45,7 @@
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day01-zhong09.mp3" length="2351900" type="audio/mpeg"/>
     <itunes:duration>00:02:27</itunes:duration>
     <itunes:episode>3</itunes:episode>
+    <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -54,6 +57,7 @@
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day01-kang01.mp3" length="2056403" type="audio/mpeg"/>
     <itunes:duration>00:02:08</itunes:duration>
     <itunes:episode>4</itunes:episode>
+    <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -65,6 +69,7 @@
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day01-kang02.mp3" length="2509053" type="audio/mpeg"/>
     <itunes:duration>00:02:37</itunes:duration>
     <itunes:episode>5</itunes:episode>
+    <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -76,6 +81,7 @@
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day01-kang03.mp3" length="2245320" type="audio/mpeg"/>
     <itunes:duration>00:02:20</itunes:duration>
     <itunes:episode>6</itunes:episode>
+    <itunes:season>1</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -86,7 +92,8 @@
     <pubDate>Sat, 14 Nov 2026 00:00:00 +0800</pubDate>
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day02-zhong10.mp3" length="3366705" type="audio/mpeg"/>
     <itunes:duration>00:03:30</itunes:duration>
-    <itunes:episode>7</itunes:episode>
+    <itunes:episode>1</itunes:episode>
+    <itunes:season>2</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -97,7 +104,8 @@
     <pubDate>Sat, 14 Nov 2026 01:00:00 +0800</pubDate>
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day02-zhong13.mp3" length="2947074" type="audio/mpeg"/>
     <itunes:duration>00:03:04</itunes:duration>
-    <itunes:episode>8</itunes:episode>
+    <itunes:episode>2</itunes:episode>
+    <itunes:season>2</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -108,7 +116,8 @@
     <pubDate>Sat, 14 Nov 2026 02:00:00 +0800</pubDate>
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day02-wai04.mp3" length="2986780" type="audio/mpeg"/>
     <itunes:duration>00:03:07</itunes:duration>
-    <itunes:episode>9</itunes:episode>
+    <itunes:episode>3</itunes:episode>
+    <itunes:season>2</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -119,7 +128,8 @@
     <pubDate>Sat, 14 Nov 2026 03:00:00 +0800</pubDate>
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day02-kang04.mp3" length="2708419" type="audio/mpeg"/>
     <itunes:duration>00:02:49</itunes:duration>
-    <itunes:episode>10</itunes:episode>
+    <itunes:episode>4</itunes:episode>
+    <itunes:season>2</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -130,7 +140,8 @@
     <pubDate>Sat, 14 Nov 2026 04:00:00 +0800</pubDate>
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day02-kang05.mp3" length="2341033" type="audio/mpeg"/>
     <itunes:duration>00:02:26</itunes:duration>
-    <itunes:episode>11</itunes:episode>
+    <itunes:episode>5</itunes:episode>
+    <itunes:season>2</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -141,7 +152,8 @@
     <pubDate>Sat, 14 Nov 2026 05:00:00 +0800</pubDate>
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day02-kang06.mp3" length="2788249" type="audio/mpeg"/>
     <itunes:duration>00:02:54</itunes:duration>
-    <itunes:episode>12</itunes:episode>
+    <itunes:episode>6</itunes:episode>
+    <itunes:season>2</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -152,7 +164,8 @@
     <pubDate>Sun, 15 Nov 2026 00:00:00 +0800</pubDate>
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day03-wai05.mp3" length="3013111" type="audio/mpeg"/>
     <itunes:duration>03:08</itunes:duration>
-    <itunes:episode>13</itunes:episode>
+    <itunes:episode>1</itunes:episode>
+    <itunes:season>3</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -163,7 +176,8 @@
     <pubDate>Sun, 15 Nov 2026 01:00:00 +0800</pubDate>
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day03-wai08.mp3" length="2807475" type="audio/mpeg"/>
     <itunes:duration>02:55</itunes:duration>
-    <itunes:episode>14</itunes:episode>
+    <itunes:episode>2</itunes:episode>
+    <itunes:season>3</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -174,7 +188,8 @@
     <pubDate>Sun, 15 Nov 2026 02:00:00 +0800</pubDate>
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day03-wai09.mp3" length="2352736" type="audio/mpeg"/>
     <itunes:duration>02:27</itunes:duration>
-    <itunes:episode>15</itunes:episode>
+    <itunes:episode>3</itunes:episode>
+    <itunes:season>3</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -185,7 +200,8 @@
     <pubDate>Sun, 15 Nov 2026 03:00:00 +0800</pubDate>
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day03-kang07.mp3" length="2243231" type="audio/mpeg"/>
     <itunes:duration>02:20</itunes:duration>
-    <itunes:episode>16</itunes:episode>
+    <itunes:episode>4</itunes:episode>
+    <itunes:season>3</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -196,7 +212,8 @@
     <pubDate>Sun, 15 Nov 2026 04:00:00 +0800</pubDate>
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day03-kang08.mp3" length="2292132" type="audio/mpeg"/>
     <itunes:duration>02:23</itunes:duration>
-    <itunes:episode>17</itunes:episode>
+    <itunes:episode>5</itunes:episode>
+    <itunes:season>3</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -207,7 +224,8 @@
     <pubDate>Sun, 15 Nov 2026 05:00:00 +0800</pubDate>
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day03-xila04.mp3" length="1995381" type="audio/mpeg"/>
     <itunes:duration>02:05</itunes:duration>
-    <itunes:episode>18</itunes:episode>
+    <itunes:episode>6</itunes:episode>
+    <itunes:season>3</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -218,7 +236,8 @@
     <pubDate>Mon, 16 Nov 2026 00:00:00 +0800</pubDate>
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day04-wai10.mp3" length="2461823" type="audio/mpeg"/>
     <itunes:duration>02:34</itunes:duration>
-    <itunes:episode>19</itunes:episode>
+    <itunes:episode>1</itunes:episode>
+    <itunes:season>4</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -229,7 +248,8 @@
     <pubDate>Mon, 16 Nov 2026 01:00:00 +0800</pubDate>
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day04-xila05.mp3" length="2343541" type="audio/mpeg"/>
     <itunes:duration>02:26</itunes:duration>
-    <itunes:episode>20</itunes:episode>
+    <itunes:episode>2</itunes:episode>
+    <itunes:season>4</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -240,7 +260,8 @@
     <pubDate>Mon, 16 Nov 2026 02:00:00 +0800</pubDate>
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day04-xila06.mp3" length="2238633" type="audio/mpeg"/>
     <itunes:duration>02:20</itunes:duration>
-    <itunes:episode>21</itunes:episode>
+    <itunes:episode>3</itunes:episode>
+    <itunes:season>4</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -251,7 +272,8 @@
     <pubDate>Mon, 16 Nov 2026 03:00:00 +0800</pubDate>
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day04-xila07.mp3" length="2409160" type="audio/mpeg"/>
     <itunes:duration>02:31</itunes:duration>
-    <itunes:episode>22</itunes:episode>
+    <itunes:episode>4</itunes:episode>
+    <itunes:season>4</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -262,7 +284,8 @@
     <pubDate>Mon, 16 Nov 2026 04:00:00 +0800</pubDate>
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day04-zhe01.mp3" length="2784070" type="audio/mpeg"/>
     <itunes:duration>02:54</itunes:duration>
-    <itunes:episode>23</itunes:episode>
+    <itunes:episode>5</itunes:episode>
+    <itunes:season>4</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -273,7 +296,8 @@
     <pubDate>Mon, 16 Nov 2026 05:00:00 +0800</pubDate>
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day04-zhe02.mp3" length="2779054" type="audio/mpeg"/>
     <itunes:duration>02:54</itunes:duration>
-    <itunes:episode>24</itunes:episode>
+    <itunes:episode>6</itunes:episode>
+    <itunes:season>4</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>

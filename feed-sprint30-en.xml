@@ -21,6 +21,7 @@
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/en/day03-wai05.mp3" length="2707583" type="audio/mpeg"/>
     <itunes:duration>02:49</itunes:duration>
     <itunes:episode>1</itunes:episode>
+    <itunes:season>3</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -32,6 +33,7 @@
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/en/day03-wai08.mp3" length="2985944" type="audio/mpeg"/>
     <itunes:duration>03:07</itunes:duration>
     <itunes:episode>2</itunes:episode>
+    <itunes:season>3</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -43,6 +45,7 @@
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/en/day03-wai09.mp3" length="2815417" type="audio/mpeg"/>
     <itunes:duration>02:56</itunes:duration>
     <itunes:episode>3</itunes:episode>
+    <itunes:season>3</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -54,6 +57,7 @@
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/en/day03-kang07.mp3" length="2454300" type="audio/mpeg"/>
     <itunes:duration>02:33</itunes:duration>
     <itunes:episode>4</itunes:episode>
+    <itunes:season>3</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -65,6 +69,7 @@
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/en/day03-kang08.mp3" length="2639038" type="audio/mpeg"/>
     <itunes:duration>02:45</itunes:duration>
     <itunes:episode>5</itunes:episode>
+    <itunes:season>3</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
@@ -76,6 +81,7 @@
     <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/en/day03-xila04.mp3" length="2642799" type="audio/mpeg"/>
     <itunes:duration>02:45</itunes:duration>
     <itunes:episode>6</itunes:episode>
+    <itunes:season>3</itunes:season>
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
