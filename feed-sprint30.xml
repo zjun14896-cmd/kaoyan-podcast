@@ -445,5 +445,125 @@
     <itunes:episodeType>full</itunes:episodeType>
     <itunes:explicit>false</itunes:explicit>
   </item>
+  <item>
+    <title>Day-6 探01 汉斯·哈克的艺术实践</title>
+    <description>Day-6 探01 汉斯·哈克的艺术实践</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day6-探01</guid>
+    <pubDate>Wed, 18 Nov 2026 00:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day06-tan01.mp3" length="1445589" type="audio/mpeg"/>
+    <itunes:duration>02:29</itunes:duration>
+    <itunes:episode>1</itunes:episode>
+    <itunes:season>6</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-6 探02 罗伯特·史密森的艺术实践</title>
+    <description>Day-6 探02 罗伯特·史密森的艺术实践</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day6-探02</guid>
+    <pubDate>Wed, 18 Nov 2026 01:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day06-tan02.mp3" length="1617645" type="audio/mpeg"/>
+    <itunes:duration>02:45</itunes:duration>
+    <itunes:episode>2</itunes:episode>
+    <itunes:season>6</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-6 探03 艺术与科技的关系</title>
+    <description>Day-6 探03 艺术与科技的关系</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day6-探03</guid>
+    <pubDate>Wed, 18 Nov 2026 02:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day06-tan03.mp3" length="1488069" type="audio/mpeg"/>
+    <itunes:duration>02:34</itunes:duration>
+    <itunes:episode>3</itunes:episode>
+    <itunes:season>6</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-6 探04 艺术与媒介的关系</title>
+    <description>Day-6 探04 艺术与媒介的关系</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day6-探04</guid>
+    <pubDate>Wed, 18 Nov 2026 03:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day06-tan04.mp3" length="1467477" type="audio/mpeg"/>
+    <itunes:duration>02:30</itunes:duration>
+    <itunes:episode>4</itunes:episode>
+    <itunes:season>6</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-6 探05 艺术与生态的关系</title>
+    <description>Day-6 探05 艺术与生态的关系</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day6-探05</guid>
+    <pubDate>Wed, 18 Nov 2026 04:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day06-tan05.mp3" length="1452909" type="audio/mpeg"/>
+    <itunes:duration>02:30</itunes:duration>
+    <itunes:episode>5</itunes:episode>
+    <itunes:season>6</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-6 外04 文艺复兴艺术</title>
+    <description>Day-6 外04 文艺复兴艺术</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day6-外04</guid>
+    <pubDate>Wed, 18 Nov 2026 05:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day06-wai04.mp3" length="1444725" type="audio/mpeg"/>
+    <itunes:duration>02:29</itunes:duration>
+    <itunes:episode>6</itunes:episode>
+    <itunes:season>6</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-6 外05 巴洛克的艺术</title>
+    <description>Day-6 外05 巴洛克的艺术</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day6-外05</guid>
+    <pubDate>Wed, 18 Nov 2026 06:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day06-wai05.mp3" length="1541229" type="audio/mpeg"/>
+    <itunes:duration>02:39</itunes:duration>
+    <itunes:episode>7</itunes:episode>
+    <itunes:season>6</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-6 外08 马奈及印象派</title>
+    <description>Day-6 外08 马奈及印象派</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day6-外08</guid>
+    <pubDate>Wed, 18 Nov 2026 07:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day06-wai08.mp3" length="1498581" type="audio/mpeg"/>
+    <itunes:duration>02:33</itunes:duration>
+    <itunes:episode>8</itunes:episode>
+    <itunes:season>6</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-6 外09 塞尚及后印象派</title>
+    <description>Day-6 外09 塞尚及后印象派</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day6-外09</guid>
+    <pubDate>Wed, 18 Nov 2026 08:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day06-wai09.mp3" length="1265205" type="audio/mpeg"/>
+    <itunes:duration>02:10</itunes:duration>
+    <itunes:episode>9</itunes:episode>
+    <itunes:season>6</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
+  <item>
+    <title>Day-6 外10 美国抽象表现主义</title>
+    <description>Day-6 外10 美国抽象表现主义</description>
+    <guid isPermaLink="false">kaoyan-sprint30-day6-外10</guid>
+    <pubDate>Wed, 18 Nov 2026 09:00:00 +0800</pubDate>
+    <enclosure url="https://zjun14896-cmd.github.io/kaoyan-audio-sprint30/day06-wai10.mp3" length="1282557" type="audio/mpeg"/>
+    <itunes:duration>02:12</itunes:duration>
+    <itunes:episode>10</itunes:episode>
+    <itunes:season>6</itunes:season>
+    <itunes:episodeType>full</itunes:episodeType>
+    <itunes:explicit>false</itunes:explicit>
+  </item>
 </channel>
 </rss>
